@@ -7,7 +7,6 @@ class Xavtool < Formula
 
   def install
     bin.install "xavtool"
-    bin.install "xavtool"
   end
 
   test do
