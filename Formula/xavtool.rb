@@ -1,9 +1,9 @@
 class Xavtool < Formula
   desc ""
   homepage ""
-  url "https://github.com/gabrielrobert/xavtool/releases/download/0.10.0/xavtool_0.10.0_Darwin_x86_64.tar.gz"
-  version "0.10.0"
-  sha256 "31758171afd088508ff072893bd57a7574c636a69def338fc772e7ab49dee9a9"
+  url "https://github.com/gabrielrobert/xavtool/releases/download/0.11.1/xavtool_0.11.1_Darwin_x86_64.tar.gz"
+  version "0.11.1"
+  sha256 "9552e5704646958877e676a54e67d75144e86c335df292b18aa87addc8afab02"
 
   def install
     bin.install "xavtool"
